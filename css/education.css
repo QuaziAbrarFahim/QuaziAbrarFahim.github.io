@@ -1,0 +1,37 @@
+.educationbackground {
+    /*Background image of University of South Florida entrance*/
+    min-height: 70vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+  }
+  
+  /* .whitespacetop {
+    removes white space between skills and education page when setting padding
+    width: 100%;
+    margin: auto;
+    padding-top: 50px;
+    padding-bottom: 50px;
+  } */
+  
+  .educationinfo {
+    text-align: center;
+    font-weight: bold;
+    height: 50vh;
+    width: 80%;
+    margin: auto;
+    padding: 25px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-color: rgba(45, 44, 85);
+    font-size: 2.6vh;
+    color:rgb(255, 255, 255)
+  }
+  div > h1 {
+    /* padding-left: 22vh; */
+    padding-bottom: 4vh;
+    color:rgb(5, 11, 92);
+    font-size: 7vh;
+    text-align: center;
+  }
